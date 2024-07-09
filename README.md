@@ -17,3 +17,8 @@ pnpm dev
 ## Load the extension to Chrome
 
 See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#loading-the-extension
+
+## Demo
+
+https://github.com/nihar-hegde/LinkedIn-AI-Reply/assets/59167599/a12ef3c9-d240-47b8-9e75-51b4d5a89bf1
+
